@@ -1,5 +1,7 @@
 # Aventox.com Resources
 
+Youc an [download all](https://github.com/Aventox-Network/resources/archive/refs/heads/main.zip) or download them manually in case you need one of them, below you have an short overview of everything.
+
 ## Logomarks
 
 ### Title
