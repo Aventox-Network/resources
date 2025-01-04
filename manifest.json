@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Wordmark",
+        "resource": "https://github.com/Aventox-Network/resources/blob/37275c6eab14858d9be5a581addaaa023cc3cf07/aventox_title.png",
+        "canBeChanged": false,
+        "externalUse": true
+    },
+    {
+        "name": "Icon with Padding",
+        "resource": "https://github.com/Aventox-Network/resources/blob/37275c6eab14858d9be5a581addaaa023cc3cf07/aventox_title_short_squared_empty.png",
+        "canBeChanged": false,
+        "externalUse": true
+    },
+    {
+        "name": "Developer Icon",
+        "resource": "https://github.com/Aventox-Network/resources/blob/37275c6eab14858d9be5a581addaaa023cc3cf07/aventox_title_short_dev.png",
+        "canBeChanged": false,
+        "externalUse": false
+    },
+    {
+        "name": "Icon with Sky Background",
+        "resource": "https://github.com/Aventox-Network/resources/blob/37275c6eab14858d9be5a581addaaa023cc3cf07/aventox_title_short_sky_background.png.png",
+        "canBeChanged": false,
+        "externalUse": false
+    }
+]
