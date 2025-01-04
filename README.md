@@ -1,6 +1,12 @@
 # Aventox.com Resources
 
-Youc an [download all](https://github.com/Aventox-Network/resources/archive/refs/heads/main.zip) or download them manually in case you need one of them, below you have an short overview of everything.
+> For our **PRESS** or **PARTNER KIT** please visit [aventox.com/press](https://aventox.com/press).
+
+You can [download all](https://github.com/Aventox-Network/resources/archive/refs/heads/main.zip) or download them manually in case you need one of them, below you have an short overview of everything.
+
+## Internal API
+
+Please request for all data to [manifest.json](https://raw.githubusercontent.com/Aventox-Network/resources/refs/heads/main/manifest.json).
 
 ## Logomarks
 
@@ -20,3 +26,11 @@ Youc an [download all](https://github.com/Aventox-Network/resources/archive/refs
 
 > These resources are not allowed to be modified! <br>
 > Only with the explicit agreement by an administrative team-member or an written agreement.
+
+## License
+
+You are not allowed to use our resource for your own project, you are not allowed to display our word- or iconmark on your services without explicit permission. See further information inside [LICENSE](LICENSE).
+
+## Copyright
+
+The copyright belongs to &copy; Aventox Entertainment. All rights reserved.
